@@ -1,0 +1,1 @@
+MSBuild ../HelloWorld/HelloWorld.sln /p:Configuration=Release
