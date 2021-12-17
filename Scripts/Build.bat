@@ -1,1 +1,1 @@
-MSBuild ../HelloWorld/HelloWorld.sln /p:Configuration=Release
+MSBuild HelloWorld/HelloWorld.sln /p:Configuration=Release
